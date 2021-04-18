@@ -1,0 +1,6 @@
+embark：在云端的MB
+
+embark：声称是第一个允许在云端进行MB的方案
+
+embark基于blindbox做的。但是有所改进
+PrefixMatch：新的快速加密方案，可以使程序能执行前缀匹配和端口检测范围
