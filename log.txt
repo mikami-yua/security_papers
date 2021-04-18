@@ -1,0 +1,6 @@
+再读blindbox
+试图在java下实现乱码电路
+试图根据GitHub的星标，在java下模拟blindbox的工作
+
+读根blindbox相关的论文1，2
+读sherry的长文
